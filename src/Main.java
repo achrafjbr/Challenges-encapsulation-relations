@@ -63,8 +63,26 @@ public class Main {
         //springBoot.etudiantsDunCours();
 
 
+        /// Challenge 4 — One-to-Many : Commande et Produit.
+
+       // Commande commande = new Commande(1);
+
+        //commande.ajouterProduit( new Produit(2,10,"Coffee"));
+        //commande.ajouterProduit( new Produit(2,1000,"PC"));
+
+        // commande.calculerTotal();
 
 
+
+        /// Challenge 8 — One-to-Many + Calcul : Facture et Paiement
+       // Paiement paiement1 = new Paiement(100,"1/1/1992");
+       // Paiement paiement2 = new Paiement(200,"1/10/1992");
+
+       // Facture facture =new Facture(1);
+       // facture.ajouterPaiement(paiement1);
+       // facture.ajouterPaiement(paiement2);
+       // System.out.println(facture.calculerTotalPaiements()); //  montant corrant
+       // facture.payerLaFacture(100);
 
     }
 
