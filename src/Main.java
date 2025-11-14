@@ -105,6 +105,28 @@ public class Main {
         //bibliotheque.supprimerLivre(livre1);
         //bibliotheque.afficherLivres();
 
+        ///  Challenge 7 — Many-to-Many : Auteur et Livre
+        // Livre livre1 = new Livre("la crime double","Agata christie",2222);
+        //  Livre livre2 = new Livre("Le drole","Albert kami",32);
+
+        // Auteur auteur1 =  new Auteur("Agata christie");
+        //  Auteur auteur2 =  new Auteur("Albert kami");
+
+        // livre1.ajouterAuteur(auteur1);
+        // livre1.ajouterAuteur(auteur1);
+
+        // livre1.afficherLesAuteurDunLive();
+
+        // auteur1.ajouterLivre(livre1);
+        // auteur1.ajouterLivre(livre2);
+
+        // auteur1.afficherLesLivresDunAuteur();
+
+
+
+
+
+
 
     }
 }
