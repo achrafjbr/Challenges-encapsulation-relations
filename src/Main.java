@@ -87,9 +87,24 @@ public class Main {
 
         ///  Challenge 5 — One-to-One : Voiture et CarteGrise
 
-        CarteGrise carteGrise1 =  new CarteGrise(23222,new Proprietaire(14,"Achraf"),"1/1/1956");
-        Voiture voiture1 = new Voiture(1113,"Toyota",3333);
-        voiture1.lierCarteGrise(carteGrise1);
-        voiture1.afficherLaliaison();
+        //CarteGrise carteGrise1 =  new CarteGrise(23222,new Proprietaire(14,"Achraf"),"1/1/1956");
+        //Voiture voiture1 = new Voiture(1113,"Toyota",3333);
+        //voiture1.lierCarteGrise(carteGrise1);
+        //voiture1.afficherLaliaison();
+
+        /// Challenge 6 — One-to-Many : Bibliothèque et Livre
+
+       // Livre livre1 = new Livre("la crime double","Agata christie",2222);
+       // Livre livre2 = new Livre("Le drole","Albert kami",32);
+
+        //Bibliotheque bibliotheque = new Bibliotheque("Ahmed hansali");
+
+        //bibliotheque.ajouterLivre(livre1);
+        //bibliotheque.ajouterLivre(livre2);
+        //bibliotheque.afficherLivres();
+        //bibliotheque.supprimerLivre(livre1);
+        //bibliotheque.afficherLivres();
+
+
     }
 }
