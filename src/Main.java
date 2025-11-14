@@ -122,6 +122,16 @@ public class Main {
 
         // auteur1.afficherLesLivresDunAuteur();
 
+        ///  Challenge 9 — One-to-One : Étudiant et Certification:
+
+        //Etudiant etudiant1 =  new Etudiant(100,"Achraf");
+        //Certification certification = new Certification("Java","1/10/2022");
+
+        //etudiant1.attribuerCertification(certification);
+        //Etudiant etudiant2 =  new Etudiant(100,"Achraf");
+        //etudiant2.attribuerCertification(certification);
+        //etudiant2.attribuerCertification(certification);
+
 
 
 

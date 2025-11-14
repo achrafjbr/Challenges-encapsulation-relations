@@ -47,13 +47,13 @@ public class Livre {
         this.isbn = isbn;
     }
 
-    public void ajouterAuteur(Auteur auteur) {
-        auteurs.add(auteur);
-    }
+        public void ajouterAuteur(Auteur auteur) {
+            auteurs.add(auteur);
+        }
 
-    public void afficherLesAuteurDunLive(){
-        System.out.println("Les Auteur d'un Livre");
-        for (Auteur auteur: getAuteurs()){
+        public void afficherLesAuteurDunLive(){
+            System.out.println("Les Auteur d'un Livre");
+            for (Auteur auteur: getAuteurs()){
             System.out.println(auteur.getNom());
         }
     }
